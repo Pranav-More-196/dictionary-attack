@@ -11,3 +11,5 @@ HashCracker is a Python-based tool designed to simulate dictionary attacks on pa
 ## Prerequisites
 - Python 3.8 or later
 - `hashlib` module (pre-installed in Python)
+
+- paytmacc196@gamil.com
